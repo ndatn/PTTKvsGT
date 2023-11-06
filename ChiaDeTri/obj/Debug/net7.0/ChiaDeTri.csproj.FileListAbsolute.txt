@@ -1,0 +1,14 @@
+D:\nam4-1\PTTKvsGT\ChiaDeTri\bin\Debug\net7.0\ChiaDeTri.exe
+D:\nam4-1\PTTKvsGT\ChiaDeTri\bin\Debug\net7.0\ChiaDeTri.deps.json
+D:\nam4-1\PTTKvsGT\ChiaDeTri\bin\Debug\net7.0\ChiaDeTri.runtimeconfig.json
+D:\nam4-1\PTTKvsGT\ChiaDeTri\bin\Debug\net7.0\ChiaDeTri.dll
+D:\nam4-1\PTTKvsGT\ChiaDeTri\bin\Debug\net7.0\ChiaDeTri.pdb
+D:\nam4-1\PTTKvsGT\ChiaDeTri\obj\Debug\net7.0\ChiaDeTri.GeneratedMSBuildEditorConfig.editorconfig
+D:\nam4-1\PTTKvsGT\ChiaDeTri\obj\Debug\net7.0\ChiaDeTri.AssemblyInfoInputs.cache
+D:\nam4-1\PTTKvsGT\ChiaDeTri\obj\Debug\net7.0\ChiaDeTri.AssemblyInfo.cs
+D:\nam4-1\PTTKvsGT\ChiaDeTri\obj\Debug\net7.0\ChiaDeTri.csproj.CoreCompileInputs.cache
+D:\nam4-1\PTTKvsGT\ChiaDeTri\obj\Debug\net7.0\ChiaDeTri.dll
+D:\nam4-1\PTTKvsGT\ChiaDeTri\obj\Debug\net7.0\refint\ChiaDeTri.dll
+D:\nam4-1\PTTKvsGT\ChiaDeTri\obj\Debug\net7.0\ChiaDeTri.pdb
+D:\nam4-1\PTTKvsGT\ChiaDeTri\obj\Debug\net7.0\ChiaDeTri.genruntimeconfig.cache
+D:\nam4-1\PTTKvsGT\ChiaDeTri\obj\Debug\net7.0\ref\ChiaDeTri.dll

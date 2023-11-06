@@ -1,0 +1,14 @@
+D:\nam4-1\PTTKvsGT\QuayLui\bin\Debug\net7.0\QuayLui.exe
+D:\nam4-1\PTTKvsGT\QuayLui\bin\Debug\net7.0\QuayLui.deps.json
+D:\nam4-1\PTTKvsGT\QuayLui\bin\Debug\net7.0\QuayLui.runtimeconfig.json
+D:\nam4-1\PTTKvsGT\QuayLui\bin\Debug\net7.0\QuayLui.dll
+D:\nam4-1\PTTKvsGT\QuayLui\bin\Debug\net7.0\QuayLui.pdb
+D:\nam4-1\PTTKvsGT\QuayLui\obj\Debug\net7.0\QuayLui.GeneratedMSBuildEditorConfig.editorconfig
+D:\nam4-1\PTTKvsGT\QuayLui\obj\Debug\net7.0\QuayLui.AssemblyInfoInputs.cache
+D:\nam4-1\PTTKvsGT\QuayLui\obj\Debug\net7.0\QuayLui.AssemblyInfo.cs
+D:\nam4-1\PTTKvsGT\QuayLui\obj\Debug\net7.0\QuayLui.csproj.CoreCompileInputs.cache
+D:\nam4-1\PTTKvsGT\QuayLui\obj\Debug\net7.0\QuayLui.dll
+D:\nam4-1\PTTKvsGT\QuayLui\obj\Debug\net7.0\refint\QuayLui.dll
+D:\nam4-1\PTTKvsGT\QuayLui\obj\Debug\net7.0\QuayLui.pdb
+D:\nam4-1\PTTKvsGT\QuayLui\obj\Debug\net7.0\QuayLui.genruntimeconfig.cache
+D:\nam4-1\PTTKvsGT\QuayLui\obj\Debug\net7.0\ref\QuayLui.dll

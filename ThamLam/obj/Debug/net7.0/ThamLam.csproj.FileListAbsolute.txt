@@ -1,0 +1,14 @@
+D:\nam4-1\PTTKvsGT\ThamLam\obj\Debug\net7.0\ThamLam.GeneratedMSBuildEditorConfig.editorconfig
+D:\nam4-1\PTTKvsGT\ThamLam\obj\Debug\net7.0\ThamLam.AssemblyInfoInputs.cache
+D:\nam4-1\PTTKvsGT\ThamLam\obj\Debug\net7.0\ThamLam.AssemblyInfo.cs
+D:\nam4-1\PTTKvsGT\ThamLam\obj\Debug\net7.0\ThamLam.csproj.CoreCompileInputs.cache
+D:\nam4-1\PTTKvsGT\ThamLam\bin\Debug\net7.0\ThamLam.exe
+D:\nam4-1\PTTKvsGT\ThamLam\bin\Debug\net7.0\ThamLam.deps.json
+D:\nam4-1\PTTKvsGT\ThamLam\bin\Debug\net7.0\ThamLam.runtimeconfig.json
+D:\nam4-1\PTTKvsGT\ThamLam\bin\Debug\net7.0\ThamLam.dll
+D:\nam4-1\PTTKvsGT\ThamLam\bin\Debug\net7.0\ThamLam.pdb
+D:\nam4-1\PTTKvsGT\ThamLam\obj\Debug\net7.0\ThamLam.dll
+D:\nam4-1\PTTKvsGT\ThamLam\obj\Debug\net7.0\refint\ThamLam.dll
+D:\nam4-1\PTTKvsGT\ThamLam\obj\Debug\net7.0\ThamLam.pdb
+D:\nam4-1\PTTKvsGT\ThamLam\obj\Debug\net7.0\ThamLam.genruntimeconfig.cache
+D:\nam4-1\PTTKvsGT\ThamLam\obj\Debug\net7.0\ref\ThamLam.dll

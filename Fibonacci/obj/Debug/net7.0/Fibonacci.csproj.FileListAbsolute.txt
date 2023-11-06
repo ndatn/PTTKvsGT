@@ -1,0 +1,14 @@
+D:\nam4-1\PTTKvsGT\Fibonacci\bin\Debug\net7.0\Fibonacci.exe
+D:\nam4-1\PTTKvsGT\Fibonacci\bin\Debug\net7.0\Fibonacci.deps.json
+D:\nam4-1\PTTKvsGT\Fibonacci\bin\Debug\net7.0\Fibonacci.runtimeconfig.json
+D:\nam4-1\PTTKvsGT\Fibonacci\bin\Debug\net7.0\Fibonacci.dll
+D:\nam4-1\PTTKvsGT\Fibonacci\bin\Debug\net7.0\Fibonacci.pdb
+D:\nam4-1\PTTKvsGT\Fibonacci\obj\Debug\net7.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\nam4-1\PTTKvsGT\Fibonacci\obj\Debug\net7.0\Fibonacci.AssemblyInfoInputs.cache
+D:\nam4-1\PTTKvsGT\Fibonacci\obj\Debug\net7.0\Fibonacci.AssemblyInfo.cs
+D:\nam4-1\PTTKvsGT\Fibonacci\obj\Debug\net7.0\Fibonacci.csproj.CoreCompileInputs.cache
+D:\nam4-1\PTTKvsGT\Fibonacci\obj\Debug\net7.0\Fibonacci.dll
+D:\nam4-1\PTTKvsGT\Fibonacci\obj\Debug\net7.0\refint\Fibonacci.dll
+D:\nam4-1\PTTKvsGT\Fibonacci\obj\Debug\net7.0\Fibonacci.pdb
+D:\nam4-1\PTTKvsGT\Fibonacci\obj\Debug\net7.0\Fibonacci.genruntimeconfig.cache
+D:\nam4-1\PTTKvsGT\Fibonacci\obj\Debug\net7.0\ref\Fibonacci.dll

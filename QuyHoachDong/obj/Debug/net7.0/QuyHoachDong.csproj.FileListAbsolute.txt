@@ -1,0 +1,14 @@
+D:\nam4-1\PTTKvsGT\QuyHoachDong\bin\Debug\net7.0\QuyHoachDong.exe
+D:\nam4-1\PTTKvsGT\QuyHoachDong\bin\Debug\net7.0\QuyHoachDong.deps.json
+D:\nam4-1\PTTKvsGT\QuyHoachDong\bin\Debug\net7.0\QuyHoachDong.runtimeconfig.json
+D:\nam4-1\PTTKvsGT\QuyHoachDong\bin\Debug\net7.0\QuyHoachDong.dll
+D:\nam4-1\PTTKvsGT\QuyHoachDong\bin\Debug\net7.0\QuyHoachDong.pdb
+D:\nam4-1\PTTKvsGT\QuyHoachDong\obj\Debug\net7.0\QuyHoachDong.GeneratedMSBuildEditorConfig.editorconfig
+D:\nam4-1\PTTKvsGT\QuyHoachDong\obj\Debug\net7.0\QuyHoachDong.AssemblyInfoInputs.cache
+D:\nam4-1\PTTKvsGT\QuyHoachDong\obj\Debug\net7.0\QuyHoachDong.AssemblyInfo.cs
+D:\nam4-1\PTTKvsGT\QuyHoachDong\obj\Debug\net7.0\QuyHoachDong.csproj.CoreCompileInputs.cache
+D:\nam4-1\PTTKvsGT\QuyHoachDong\obj\Debug\net7.0\QuyHoachDong.dll
+D:\nam4-1\PTTKvsGT\QuyHoachDong\obj\Debug\net7.0\refint\QuyHoachDong.dll
+D:\nam4-1\PTTKvsGT\QuyHoachDong\obj\Debug\net7.0\QuyHoachDong.pdb
+D:\nam4-1\PTTKvsGT\QuyHoachDong\obj\Debug\net7.0\QuyHoachDong.genruntimeconfig.cache
+D:\nam4-1\PTTKvsGT\QuyHoachDong\obj\Debug\net7.0\ref\QuyHoachDong.dll
